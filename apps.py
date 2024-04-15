@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AlertuploadRestConfig(AppConfig):
+class DetectionConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'alertupload_rest'
+    name = 'detection'
